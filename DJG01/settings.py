@@ -79,7 +79,7 @@ WSGI_APPLICATION = 'DJG01.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'djg01_db',
+        'NAME': 'ddff1tp0l4kpek',
         'USER': 'tmfmfiwhdvjbjz',
         'PASSWORD': 'ehuuVsMRl10JHtjNYOW9awxdsJ',
         'HOST': 'ec2-54-225-111-9.compute-1.amazonaws.com',
